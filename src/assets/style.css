@@ -1,0 +1,26 @@
+.main-wrapper{
+	background-color: #083f8f;
+	padding: 5%;
+	margin-top: 1rem;
+	border: medium solid rgb(247, 247, 249);
+	padding: 3rem;
+	border-radius: 1rem;
+	background: #083f8f;
+	color: #fff;
+}
+.main-title{
+	font-size: 1.6rem;
+	font-weight: 600;
+	margin-bottom: 3rem;
+}
+.sub-title
+{  
+	font-size: 1.3rem;
+	width: 100%;
+	text-align: left;
+	margin-bottom: 0.3rem;
+	font-weight: 600;
+}
+.input-select{
+	font-size: 1.3rem !important;
+}
